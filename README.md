@@ -1,11 +1,19 @@
 <h1>Hi, I'm Zack! <br/>Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Network Security Projects:</h2>
+- [LevelD Careers Building and Securing a Honeynet with SIEM in Microsoft Azure](link here)
+
+<h2>👨‍💻 Network Security Projects:</h2>
+- [Python Portfolio](link here)</br>
+- [Powershell Portfolio](link here)
+
 
 
 
 <h2>📺 Popular YouTube Videos</h2>
-https://youtu.be/PmfuLUumfMU?si=rHWz78J5dkBGsp7r
+- [SIEM Honeypot Lab](https://youtu.be/aY83kwrInZc?si=QZ7vDR3v-uchgeMt)</br>
+- [Simple Network Enumeration](https://youtu.be/vLh2HTqRL6M?si=59k995YqfXs8fc4C)</br>
+- [How to bring your cat to Japan](https://youtu.be/PmfuLUumfMU?si=rHWz78J5dkBGsp7r)
 
 
 
