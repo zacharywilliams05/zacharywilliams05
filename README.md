@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Network Security Projects:</h2>
 - [Python Portfolio](link here)</br>
-- [Powershell Portfolio](link here)
+- [Powershell Portfolio](https://github.com/zacharywilliams05/portfoliowork/tree/master/Powershell)
 
 
 
