@@ -28,11 +28,12 @@
 
 
 [youtube]: https://www.youtube.com/@Z-life-online
-[linkedin]: https://www.linkedin.com/in/zacharywilliams05/
+[linkedin]: https://www.linkedin.com/in/zacharywilliams05/</br>
 
 <h2>Get involved in Cyber Security!</h2>
 
 Getting in volved in Cyber Security is not as difficult as you might think there are many many paths and you DO NOT need to have a degree. Try joining the Cyber Range and get started! Joining use the following affiliate link will help support me make more content like I have here.
+- [My Cyber Range Affiliate Link](https://www.skool.com/cyber-range/about?ref=ec801a99c6894a5c9acf0c8ff1280007)</br>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
