@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Network Security Projects:</h2>
 - [LevelD Careers Building and Securing a Honeynet with SIEM in Microsoft Azure](https://github.com/zacharywilliams05/Azure-SOC-Honeynet-with-Live-Traffic)</br>
+
+<h2>👨‍💻 Automation and Scripting</h2>
 - [Cyber Range VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)
 
 <h2>👨‍💻 Network Security Projects:</h2>
