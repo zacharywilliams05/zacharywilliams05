@@ -29,7 +29,7 @@
 
 [youtube]: https://www.youtube.com/@Z-life-online
 [linkedin]: https://www.linkedin.com/in/zacharywilliams05/</br>
-
+<br>
 <h2>Get involved in Cyber Security!</h2>
 
 Getting in volved in Cyber Security is not as difficult as you might think there are many many paths and you DO NOT need to have a degree. Try joining the Cyber Range and get started! Joining use the following affiliate link will help support me make more content like I have here.
