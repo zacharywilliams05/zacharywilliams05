@@ -14,6 +14,7 @@
 
 
 <h2>📺 Popular YouTube Videos</h2>
+- [DFIR - How to Dump RAM, View the Contents, and Analyze](https://youtu.be/W144HHUbkRo?si=V2Gnmue9dGD8brg2)</br>
 - [SIEM Honeypot Lab](https://youtu.be/aY83kwrInZc?si=QZ7vDR3v-uchgeMt)</br>
 - [Simple Network Enumeration](https://youtu.be/vLh2HTqRL6M?si=59k995YqfXs8fc4C)</br>
 - [How to bring your cat to Japan](https://youtu.be/PmfuLUumfMU?si=rHWz78J5dkBGsp7r)
