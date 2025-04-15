@@ -5,13 +5,7 @@
 
 <h2>👨‍💻 Automation and Scripting</h2>
 - [Cyber Range VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)
-
-<h2>👨‍💻 Network Security Projects:</h2>
-- [Python Portfolio](link here)</br>
 - [Powershell Portfolio](https://github.com/zacharywilliams05/portfoliowork/tree/master/Powershell)
-
-
-
 
 <h2>📺 Popular YouTube Videos</h2>
 - [DFIR - How to Dump RAM, View the Contents, and Analyze](https://youtu.be/W144HHUbkRo?si=V2Gnmue9dGD8brg2)</br>
