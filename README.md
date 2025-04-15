@@ -4,7 +4,7 @@
 - [Building and Securing a Honeynet with SIEM in Microsoft Azure](https://github.com/zacharywilliams05/Azure-SOC-Honeynet-with-Live-Traffic)</br>
 
 <h2>👨‍💻 Automation and Scripting</h2>
-- [Cyber Range VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)
+- [VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)</br>
 - [Powershell Portfolio](https://github.com/zacharywilliams05/portfoliowork/tree/master/Powershell)
 
 <h2>📺 Popular YouTube Videos</h2>
