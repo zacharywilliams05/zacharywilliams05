@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Network Security Projects:</h2>
 - [Building and Securing a Honeynet with SIEM in Microsoft Azure](https://github.com/zacharywilliams05/Azure-SOC-Honeynet-with-Live-Traffic)</br>
+- [Vulnerabilty Management with Tenable](https://github.com/zacharywilliams05)</br>
 
 <h2>👨‍💻 Automation and Scripting</h2>
 - [VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)</br>
