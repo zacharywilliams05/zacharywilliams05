@@ -1,7 +1,7 @@
 <h1>Hi, I'm Zack! <br/>Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 
 <h2>👨‍💻 Network Security Projects:</h2>
-- [Building and Securing a Honeynet with SIEM in Microsoft Azure](https://github.com/zacharywilliams05/Azure-SOC-Honeynet-with-Live-Traffic)</br>
+- [Building and Securing a Honeynet with SIEM in Microsoft Azure](https://www.github.com/zacharywilliams05/Azure-SOC-Honeynet-with-Live-Traffic)</br>
 - [Vulnerabilty Management with Tenable](https://github.com/zacharywilliams05)</br>
 
 <h2>👨‍💻 Automation and Scripting</h2>
