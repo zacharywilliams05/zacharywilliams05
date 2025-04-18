@@ -3,7 +3,7 @@ Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 
 ## 👨‍💻 Network Security Projects:
 - [Building and Securing a Honeynet with SIEM in Microsoft Azure](https://github.com/zacharywilliams05/Azure-SOC-Honeynet-with-Live-Traffic)
-- [Vulnerabilty Management with Tenable](https://github.com/zacharywilliams05)
+- [Vulnerabilty Management with Tenable](https://github.com/zacharywilliams05/Vulnerabilty-Management-with-Tenable)
 
 ## 👨‍💻 Automation and Scripting
 - [VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)
