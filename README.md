@@ -3,7 +3,8 @@ Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 
 ## 👨‍💻 Threat Hunting
 - [Threat Hunting - Exposed Devices](https://github.com/zacharywilliams05/Threat-Hunt-Exposed-Devices)
-
+- [Threat Hunting - Detecting Brute Force Attempts](https://github.com/zacharywilliams05/Threat-Hung-Brute-Force-Attempts)
+  
 ## 👨‍💻 Network Security Projects:
 - [Building and Securing a Honeynet with SIEM in Microsoft Azure](https://github.com/zacharywilliams05/Azure-SOC-Honeynet-with-Live-Traffic)
 - [Vulnerabilty Management with Tenable](https://github.com/zacharywilliams05/Vulnerabilty-Management-with-Tenable)
