@@ -11,6 +11,8 @@ Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 - [Vulnerabilty Management with Tenable](https://github.com/zacharywilliams05/Vulnerabilty-Management-with-Tenable)
 
 ## 👨‍💻 Automation and Scripting
+- [Configuring AWSCLI for use with Terraform](https://github.com/zacharywilliams05/Configure-AWSCLI-Terraform)
+- [Creating a VPC in AWS using Terraform](https://github.com/zacharywilliams05/VPC-AWS-Using-Terraform)
 - [VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)
 - [Powershell Portfolio](https://github.com/zacharywilliams05/portfoliowork/tree/master/Powershell)
 
