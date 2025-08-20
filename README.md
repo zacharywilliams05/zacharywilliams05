@@ -18,6 +18,7 @@ Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 - [Creating a VPC in AWS using Terraform](https://github.com/zacharywilliams05/VPC-AWS-Using-Terraform)
 - [VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)
 - [Powershell Portfolio](https://github.com/zacharywilliams05/portfoliowork/tree/master/Powershell)
+- [STIG Implementation WN10-AU-000500](https://github.com/zacharywilliams05/WN10-AU-000500)
 
 ## 📺 Popular YouTube Videos
 - [DFIR - How to Dump RAM, View the Contents, and Analyze](https://youtu.be/W144HHUbkRo?si=V2Gnmue9dGD8brg2)
