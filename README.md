@@ -19,6 +19,8 @@ Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 - [VM Creation Automation](https://github.com/zacharywilliams05/Cyber-Range-VM-Creation-Automation)
 - [Powershell Portfolio](https://github.com/zacharywilliams05/portfoliowork/tree/master/Powershell)
 - [STIG Implementation WN10-AU-000500](https://github.com/zacharywilliams05/WN10-AU-000500)
+- [STIG Implementation WN10-CC-000145](https://github.com/zacharywilliams05/WN10-CC-000145)
+- [STIG Implementation WN10-AC-000005](https://github.com/zacharywilliams05/WN10-AC-000005)
 
 ## 📺 Popular YouTube Videos
 - [DFIR - How to Dump RAM, View the Contents, and Analyze](https://youtu.be/W144HHUbkRo?si=V2Gnmue9dGD8brg2)
