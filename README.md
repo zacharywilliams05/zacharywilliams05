@@ -22,6 +22,7 @@ Cybersecurity Professional, Educator, Cyclist, Neko Enthusiast
 - [STIG Implementation WN10-AU-000500](https://github.com/zacharywilliams05/WN10-AU-000500)
 - [STIG Implementation WN10-CC-000145](https://github.com/zacharywilliams05/WN10-CC-000145)
 - [STIG Implementation WN10-CC-000185](https://github.com/zacharywilliams05/WN10-CC-000185)
+- [STIG Implementation WN10-CC-000370](https://github.com/zacharywilliams05/WN10-CC-000370)
 - [STIG Implementation WN10-SO-000250](https://github.com/zacharywilliams05/WN10-SO-000250)
 
 ## 📺 Popular YouTube Videos
